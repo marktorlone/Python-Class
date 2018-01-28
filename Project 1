@@ -1,0 +1,6 @@
+UserName = input("Input your name: ")
+Shares = input("Input your # of shares: ")
+ShareCost = input("Input the cost per share: ")
+SharePrice = input("Input the price the share sells for: ")
+CommissionPercentage = input("Input the commission percentage charged by the broker: ")
+
