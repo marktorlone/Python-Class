@@ -1,5 +1,5 @@
 #program 1 -- CSC 308 -- Python
-#Nick Cavalancia, xxx, xxx
+#Nick Cavalancia, Paul MacLean, xxx
 #Due Date: Feb. 6, 2018
 
 #get information about stock account from user
